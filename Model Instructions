@@ -1,0 +1,4 @@
+Hey the model is larger than 100 mb exceeding over 9700000 lines
+but I have the download link this ---> https://www.youtube.com/redirect?event=video_description&v=SazWuIIxwZc&redir_token=QUFFLUhqbHkwS2FjY2hJYnExVDlYUjcwdGQ2MzNrMmtCQXxBQ3Jtc0trSzJaSlZqUWpXTTZfVzVyalJyQ0ZnWVhseGw5cG44NmRLUFBrLWhTYTNxNzlwUnQ4VXlDUnFKWGEyTElndzhtYjNSTUQweGd0LXFqWmVlcjVDYnRIMDR1QkxQMDZGWkZMYUg2Q3cxRS1QNnV1c3dtTQ%3D%3D&q=https%3A%2F%2Fgithub.com%2FOlafenwaMoses%2FImageAI%2Freleases%2Fdownload%2F1.0%2Fresnet50_coco_best_v2.0.1.h5
+
+step 1: paste the file in directory in which the objDetector.py file is and than run the python file
